@@ -1,3 +1,4 @@
+const API_KEY = window.env.API_KEY;
 const CHANNEL_ID = "UCDq3VQueDylAXWcMd6WboDQ";
 
 const ranks = [
