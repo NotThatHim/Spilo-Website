@@ -1,4 +1,3 @@
-const API_KEY = "AIzaSyCm6nyweEjzhtqbYsxe0YgnTVwEtfzEqIw";
 const CHANNEL_ID = "UCDq3VQueDylAXWcMd6WboDQ";
 
 const ranks = [
